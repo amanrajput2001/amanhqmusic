@@ -25,7 +25,7 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/HEXOROP/eSportMusicX)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/amanrajput2001/amanhqmusic)
 
 ## Features 🔮
 
