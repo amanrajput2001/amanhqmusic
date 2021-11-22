@@ -63,7 +63,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/HEXOROP/eSportMusicX # Clone your repo.
+git clone https://github.com/amanrajput2001/amanhqmusic# Clone your repo.
 cd VeezMusic
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
