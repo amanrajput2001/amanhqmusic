@@ -1,15 +1,15 @@
-<p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
+<p align="center"><a href="https://t.me/india_chat_002"><img src="https://github.com/amanrajput2001/amanhqmusic/blob/main/etc/aman.png"></a></p>
 <p align="center">
-    <br><b>eSport MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
+    <br><b>𝗔𝗠𝗔𝗡𝗩𝗠𝗨𝗦𝗜𝗖 is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX"> <img src="https://img.shields.io/github/repo-size/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/commits/main"> <img src="https://img.shields.io/github/last-commit/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/issues"> <img src="https://img.shields.io/github/issues/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/network/members"> <img src="https://img.shields.io/github/forks/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/HEXOROP/eSportMusicX/network/members"> <img src="https://img.shields.io/github/stars/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/amanrajput2001/amanhqmusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://github.com/amanrajput2001/amanhqmusic"> <img src="https://img.shields.io/github/repo-size/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/amanrajput2001/amanhqmusic/commits/main"> <img src="https://img.shields.io/github/last-commit/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/amanrajput2001/amanhqmusic/issues"> <img src="https://img.shields.io/github/issues/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/amanrajput2001/amanhqmusic/network/members"> <img src="https://img.shields.io/github/forks/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/amanrajput2001/amanhqmusic/network/members"> <img src="https://img.shields.io/github/stars/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 <h3>Requirements 📝</h3>
@@ -21,7 +21,7 @@
 
 ### 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@HEXOROP/eSportMusic) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AMANOP/eSportMusic) ``Pyrogram``
 
 ### 🎖 History
 
@@ -52,7 +52,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HEXOROP/eSportMusicX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amanrajput2001/amanhqmusic)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
 
@@ -72,9 +72,7 @@ python3 main.py # Run the bot
 ```
 
 ### Special Credits 💖
-- [Hexor'xD](https://github.com/HEXOROP): Dev
-- [eSport Music Bot](https://t.me/eSport_BOTs) Our Music Bot
-- [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
+NO CREDITS
 
 ### Support & Updates 🎑
-<a href="https://t.me/EsportClan"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/eSport_BOTs"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/india_chat_002"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/india_chat_002"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
